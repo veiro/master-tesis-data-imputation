@@ -26,9 +26,11 @@ Se hizo dos pruebas: regresion y clasificacion
 ## Regresion de un atributo numerico
 
 En base a los datos (**Province_State	Country_Region	Last_Update	Lat	Long_	Confirmed		Incident_Rate	Case_Fatality_Ratio	date**) el objetivo es predecir **Deaths**
+
 Basado en el tutorial: https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Regression.ipynb#scrollTo=40ed5152&uniqifier=1
 
 ## Prediccion de un campo categorico
 
 En base a los datos (**Deaths	 Province_State	Last_Update	Lat	Long_	Confirmed		Incident_Rate	Case_Fatality_Ratio	date**) el objetivo es predecir **Country_Region**
+
 Basado en el tutorial https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Multiclass%20Classification.ipynb#scrollTo=4181de41&uniqifier=1
