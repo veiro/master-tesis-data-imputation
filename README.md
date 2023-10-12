@@ -34,3 +34,6 @@ Basado en el tutorial: https://colab.research.google.com/github/pycaret/pycaret/
 En base a los datos (**Deaths	 Province_State	Last_Update	Lat	Long_	Confirmed		Incident_Rate	Case_Fatality_Ratio	date**) el objetivo es predecir **Country_Region**
 
 Basado en el tutorial https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Multiclass%20Classification.ipynb#scrollTo=4181de41&uniqifier=1
+
+# GAIN
+Basado en https://github.com/jsyoon0823/GAIN
