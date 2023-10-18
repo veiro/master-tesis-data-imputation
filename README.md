@@ -37,3 +37,6 @@ Basado en el tutorial https://colab.research.google.com/github/pycaret/pycaret/b
 
 # GAIN
 Basado en https://github.com/jsyoon0823/GAIN
+
+# MIDA
+Basado en https://github.com/Harry24k/MIDA-pytorch
