@@ -40,3 +40,6 @@ Basado en https://github.com/jsyoon0823/GAIN
 
 # MIDA
 Basado en https://github.com/Harry24k/MIDA-pytorch
+
+# scikit learn impuuter 
+Basado en https://scikit-learn.org/stable/modules/impute.html
