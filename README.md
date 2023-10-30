@@ -42,5 +42,9 @@ Basado en https://github.com/jsyoon0823/GAIN
 Basado en https://github.com/Harry24k/MIDA-pytorch
 
 # scikit learn impuuter 
-Basado en https://scikit-learn.org/stable/modules/impute.html
-https://scikit-learn.org/stable/auto_examples/impute/plot_missing_values.html#sphx-glr-auto-examples-impute-plot-missing-values-py
+
+
+Basado en https://scikit-learn.org/stable/auto_examples/impute/plot_missing_values.html#sphx-glr-auto-examples-impute-plot-missing-values-py
+
+Dcoumentacion de referencia  https://scikit-learn.org/stable/modules/impute.html
+
